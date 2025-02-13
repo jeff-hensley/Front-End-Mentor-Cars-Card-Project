@@ -99,7 +99,7 @@ p {
     height: 40px;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 480px) {
     .card {
         width: 327px;
         height: 442px;
