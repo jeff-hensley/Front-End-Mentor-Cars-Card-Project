@@ -99,6 +99,10 @@ p {
     height: 40px;
 }
 
+.button:hover {
+    cursor: pointer;
+}
+
 @media (max-width: 480px) {
     .card {
         width: 327px;
